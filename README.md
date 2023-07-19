@@ -14,4 +14,6 @@ A very basic standalone FiveM Kill Notify Alert
 Exports:
 
 exports.tizzy_alert:addDeath(name, xp, sound, audiofile, volume)
+
+
 exports.tizzy_alert:addKill(name, xp, sound, audiofile, volume)
